@@ -56,7 +56,7 @@
 - Email : jkll91183@naver.com  
   
    
-## 기타  
+
   
-제 GitHub를 방문해주셔서 감사합니다.    
+### 제 GitHub를 방문해주셔서 감사합니다. 
 
