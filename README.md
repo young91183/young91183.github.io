@@ -4,9 +4,9 @@
 
 - 정보통신공학을 전공하며 java로 여러 통신프로토콜을 구현하는 등의 경험을 하며 학부 연구생으로 활동. (+ 정보통신기사 자격을 취득)
 - KT AIVLE School 3기를 수료하며 AI 모델 생성을 위한 EDA/전처리/학습/검토 과정을 학습했고, AI 기반 웹 서비스를 개발해 최우수상 수상.
-- 이후 프리온보딩 프론트엔드 인턴십을 통해 React, TypeScript 등 프론트엔드 심화과정을 학습.
+- 프리온보딩 프론트엔드 인턴십을 통해 React, TypeScript 등 프론트엔드 심화과정을 학습.
 - 또한 프로젝트에서 배포 및 운영을 경험하여 AWS EC2/VPC/E3와 Linux(ubuntu) 등의 클라우드 및 서버 관리가 가능.
-- 또한 KDT 공모전 참가를 위해 Spring과 Flask를 이용한 Restful API를 제작 및 배포.
+- Spring과 Flask를 이용한 Restful API를 제작 및 배포에 강점이 있는 백엔드/서버 개발자
   
   
 ## Skill  
