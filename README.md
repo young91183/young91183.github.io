@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Young's_GitHub!&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=#FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Young's_Page!&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=#FFFFFF" />
 
 ## 간단한 소개
 
@@ -55,7 +55,4 @@
 
 - Email : jkll91183@naver.com  
   
-   
-## GitHub State
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=young91183&show_icons=true&theme=radical)
 
